@@ -1,6 +1,6 @@
 # Unfolding the Crab Nebula Flux with Gammapy
 
-In spectral analyses of astrophysical gamma-ray sources typically a flux model is fitted.
+In spectral analyses of astrophysical gamma-ray sources a flux model is typically fitted.
 Unfolding has the advantage over fitting that it is model independent and correctly includes all known detector effects.
 Gammapy is a widely used open-source Python package for gamma-ray astronomy, but is lacking unfolding functionality.
 In this talk we present the implementation of unfolding in Gammapy and
