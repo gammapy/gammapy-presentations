@@ -3,8 +3,8 @@ A collection of Gammapy presentations given a conferences, including posters and
 
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
-| ICRC 2023  | [link here](https://github.com/gammapy/icrc2023-gammapy-contribution)                                  |                       |
-| Gamma2022  | Gammapy - [talk](https://github.com/gammapy/gamma2022-contribution)                                    | A. Sinha et al.                      |
+| ICRC 2023  | [link here](https://github.com/gammapy/icrc2023-gammapy-contribution)                                  | A. Sinha et al.       |
+| Gamma2022  | Gammapy - [talk](https://github.com/gammapy/gamma2022-contribution)                                    | A. Sinha et al.       |
 | ICRC 2021  | Gammapy - [poster](https://github.com/gammapy/icrc2021-gammapy-contribution)                           | A. Donath et al.      |
 | ADASS 2020 | Gammapy - [poster](https://github.com/gammapy/adass-2020-gammapy-poster)                               | A. Sinha et al.       |
 | ADASS 2018 | Gammapy doc - [poster](https://github.com/gammapy/adass2018-gammapy-poster)                            | C. Boisson et al.     |
