@@ -3,6 +3,7 @@ A collection of Gammapy presentations given a conferences, including posters and
 
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
+| CTA-Fr 2024| Gammapy in the Open Science [Gammapy_CTAFr_BKhelifi.pdf](https://github.com/gammapy/gammapy-presentations/files/14507274/Gammapy_CTAFr_BKhelifi.pdf) | B. Khélifi |
 | CTAO 2023  | Gammapy - [slides_status](https://indico.cta-observatory.org/event/4895/contributions/42826/attachments/24871/36140/gammapy_status.pdf), [slides_features](https://indico.cta-observatory.org/event/4895/contributions/42827/attachments/24874/36243/Gammapy%20features.pdf) [slides ctao](https://indico.cta-observatory.org/event/4895/contributions/42829/attachments/24869/36148/Gammapy_CTAO_BKhelifi_v2.pdf)   | R. Terrier, M. Regeard, K. Feijen, B. Khélifi |
 | Scipy 2023 | Gammapy - [slides](https://doi.org/10.25080/gerudo-f2bc6f59-028), [talk](https://youtu.be/NOX-jVj4IPA?si=YCUpFMTNkXFs0akm) | A. Donath et al.|
 | ICRC 2023  | Gammapy - [poster](https://github.com/gammapy/icrc2023-gammapy-contribution)                           | B. khélifi et al.       |
