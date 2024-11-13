@@ -3,6 +3,7 @@ A collection of Gammapy presentations given a conferences, including posters and
 
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
+| CTAO 2024  | Gammapy - [slides](https://github.com/user-attachments/files/17738215/SAT_BKhelifi_v2_compressed.pdf)  | B. Khélifi et al.     | 
 | RICAP'24   | Gammapy - [slides](https://github.com/user-attachments/files/17345534/Gammapy_BKhelifi.pdf)            | B. Khélifi et al.     |
 | Fermi Collaboration Meeting 2024 | Gammapy - present status and future plans [slides](https://github.com/gammapy/gammapy-presentations/files/14872331/gammapy-lat-CM-compressed.pdf)|A. Sinha|
 | CTA-Fr 2024| Gammapy in the Open Science - [slides](https://github.com/gammapy/gammapy-presentations/files/14507274/Gammapy_CTAFr_BKhelifi.pdf) | B. Khélifi |
