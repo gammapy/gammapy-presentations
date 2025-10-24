@@ -3,9 +3,10 @@ A collection of Gammapy presentations given a conferences, including posters and
 
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
-| ATPEM 2025 | MWL analysis with Gammapy - [slides](https://indico.in2p3.fr/event/35174/contributions/152623/attachments/96575/148447/ATPEM_2025.pdf) | L. Heckmann et al. |
+| ATPEM 2025 | MWL modelling with Gammapy - [slides](https://indico.in2p3.fr/event/35174/contributions/152623/attachments/96575/148447/ATPEM_2025.pdf) | L. Heckmann et al. |
 | ICRC 2025 | Gammapy 2.0 - [poster](https://indico.cern.ch/event/1258933/contributions/6491549/attachments/3106260/5505188/Gammapy-poster-ICRC-LowDef.pdf) | F. Acero et al. |
 | VHEGAM 2025 | Gammapy - [slides](https://agenda.infn.it/event/45940/contributions/264918/attachments/135936/203932/Gammapy_talk_pintore.pdf)  | F. Pintore et al.  |
+| MuMeNTA 2025 | MWL modelling with Gammapy - [slides](https://indico.desy.de/event/46887/contributions/180580/attachments/95831/131295/WorkshopBerlin_2025.pdf) | L. Heckmann et al. |
 | Gamma2024  | Gammapy at ten - [slides](https://indico.ict.inaf.it/event/2661/contributions/19292/attachments/8807/18124/gammapy_at_ten.pdf)  | R. Terrier et al.  |
 | CTAO 2024  | Gammapy - [slides](https://github.com/user-attachments/files/17738215/SAT_BKhelifi_v2_compressed.pdf)  | B. Khélifi et al.     | 
 | RICAP'24   | Gammapy - [slides](https://github.com/user-attachments/files/17345534/Gammapy_BKhelifi.pdf)            | B. Khélifi et al.     |
