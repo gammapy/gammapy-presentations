@@ -4,6 +4,7 @@ A collection of Gammapy presentations given a conferences, including posters and
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
 | MuMeNTA 2026 | Gammapy: current status and future plans - [slides](https://conferences.uoa.gr/event/108/contributions/1237/attachments/384/1596/MuMeNTA2026.pdf) | A. Sinha et al. |
+|  |  to be inserted here | L. Heckmann et al. |
 | ATPEM 2025 | MWL modelling with Gammapy - [slides](https://indico.in2p3.fr/event/35174/contributions/152623/attachments/96575/148447/ATPEM_2025.pdf) | L. Heckmann et al. |
 | ICRC 2025 | Gammapy 2.0 - [poster](https://indico.cern.ch/event/1258933/contributions/6491549/attachments/3106260/5505188/Gammapy-poster-ICRC-LowDef.pdf) | F. Acero et al. |
 | VHEGAM 2025 | Gammapy - [slides](https://agenda.infn.it/event/45940/contributions/264918/attachments/135936/203932/Gammapy_talk_pintore.pdf)  | F. Pintore et al.  |
