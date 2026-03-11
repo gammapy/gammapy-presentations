@@ -4,16 +4,18 @@ A collection of Gammapy presentations given a conferences, including posters and
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
 | MuMeNTA 2026 | Gammapy: current status and future plans - [slides](https://conferences.uoa.gr/event/108/contributions/1237/attachments/384/1596/MuMeNTA2026.pdf) | A. Sinha et al. |
-|  |  From Photons to Neutrinos: Advancing Multi-Messenger Blazar Modeling with Gammapy - [slides](https://conferences.uoa.gr/event/108/contributions/1230/attachments/380/1590/MuMeNTA2026_Heckmann.pdf)  | L. Heckmann et al. |
+| MuMeNTA 2026 |  From Photons to Neutrinos: Advancing Multi-Messenger Blazar Modeling with Gammapy - [slides](https://conferences.uoa.gr/event/108/contributions/1230/attachments/380/1590/MuMeNTA2026_Heckmann.pdf)  | L. Heckmann et al. |
 | ATPEM 2025 | MWL modelling with Gammapy - [slides](https://indico.in2p3.fr/event/35174/contributions/152623/attachments/96575/148447/ATPEM_2025.pdf) | L. Heckmann et al. |
 | ICRC 2025 | Gammapy 2.0 - [poster](https://indico.cern.ch/event/1258933/contributions/6491549/attachments/3106260/5505188/Gammapy-poster-ICRC-LowDef.pdf) | F. Acero et al. |
 | VHEGAM 2025 | Gammapy - [slides](https://agenda.infn.it/event/45940/contributions/264918/attachments/135936/203932/Gammapy_talk_pintore.pdf)  | F. Pintore et al.  |
 | MuMeNTA 2025 | MWL modelling with Gammapy - [slides](https://indico.desy.de/event/46887/contributions/180580/attachments/95831/131295/WorkshopBerlin_2025.pdf) | L. Heckmann et al. |
+| CTAO School 2025 | Introduction to the gammapy library - [slides](https://github.com/user-attachments/files/25895910/CTAO.school.pdf) | K. Feijen et al. |
 | Gamma2024  | Gammapy at ten - [slides](https://indico.ict.inaf.it/event/2661/contributions/19292/attachments/8807/18124/gammapy_at_ten.pdf)  | R. Terrier et al.  |
 | CTAO 2024  | Gammapy - [slides](https://github.com/user-attachments/files/17738215/SAT_BKhelifi_v2_compressed.pdf)  | B. Khélifi et al.     | 
 | RICAP'24   | Gammapy - [slides](https://github.com/user-attachments/files/17345534/Gammapy_BKhelifi.pdf)            | B. Khélifi et al.     |
 | Fermi Collaboration Meeting 2024 | Gammapy - present status and future plans [slides](https://github.com/gammapy/gammapy-presentations/files/14872331/gammapy-lat-CM-compressed.pdf)|A. Sinha|
 | CTA-Fr 2024| Gammapy in the Open Science - [slides](https://github.com/gammapy/gammapy-presentations/files/14507274/Gammapy_CTAFr_BKhelifi.pdf) | B. Khélifi |
+| ORP School 2024 | Analysis methods in gamma-ray astronomy - [slides](https://github.com/user-attachments/files/25896012/A1_ORP_Analysis.methods.pdf) | K. Feijen |
 | CTAO 2023  | Gammapy - [slides_status](https://indico.cta-observatory.org/event/4895/contributions/42826/attachments/24871/36140/gammapy_status.pdf), [slides_features](https://indico.cta-observatory.org/event/4895/contributions/42827/attachments/24874/36243/Gammapy%20features.pdf) [slides ctao](https://indico.cta-observatory.org/event/4895/contributions/42829/attachments/24869/36148/Gammapy_CTAO_BKhelifi_v2.pdf)   | R. Terrier, M. Regeard, K. Feijen, B. Khélifi |
 | Scipy 2023 | Gammapy - [slides](https://doi.org/10.25080/gerudo-f2bc6f59-028), [talk](https://youtu.be/NOX-jVj4IPA?si=YCUpFMTNkXFs0akm) | A. Donath et al.|
 | ICRC 2023  | Gammapy - [poster](https://github.com/gammapy/icrc2023-gammapy-contribution)                           | B. khélifi et al.       |
