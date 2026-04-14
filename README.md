@@ -10,7 +10,7 @@ A collection of Gammapy presentations given a conferences, including posters and
 | VHEGAM 2025 | Gammapy - [slides](https://agenda.infn.it/event/45940/contributions/264918/attachments/135936/203932/Gammapy_talk_pintore.pdf)  | F. Pintore et al.  |
 | MuMeNTA 2025 | MWL modelling with Gammapy - [slides](https://indico.desy.de/event/46887/contributions/180580/attachments/95831/131295/WorkshopBerlin_2025.pdf) | L. Heckmann et al. |
 | CTAO School 2025 | Introduction to the gammapy library - [slides](https://github.com/user-attachments/files/25895910/CTAO.school.pdf) | K. Feijen et al. |
-| Gamma2024  | Gammapy at ten - [slides](https://indico.ict.inaf.it/event/2661/contributions/19292/attachments/8807/18124/gammapy_at_ten.pdf)  | R. Terrier et al.  |
+| Gamma2024  | Gammapy at ten - [abstract](https://indico.ict.inaf.it/event/2661/contributions/19292/) - [slides](https://indico.ict.inaf.it/event/2661/contributions/19292/attachments/8807/18124/gammapy_at_ten.pdf)  | R. Terrier et al.  |
 | CTAO 2024  | Gammapy - [slides](https://github.com/user-attachments/files/17738215/SAT_BKhelifi_v2_compressed.pdf)  | B. Khélifi et al.     | 
 | RICAP'24   | Gammapy - [slides](https://github.com/user-attachments/files/17345534/Gammapy_BKhelifi.pdf)            | B. Khélifi et al.     |
 | Fermi Collaboration Meeting 2024 | Gammapy - present status and future plans [slides](https://github.com/gammapy/gammapy-presentations/files/14872331/gammapy-lat-CM-compressed.pdf)|A. Sinha|
