@@ -3,8 +3,7 @@ A collection of Gammapy presentations given a conferences, including posters and
 
 | Conference | Topics and Material                                                                                    | Contributors          |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|
-| Gamma26 | Gammapy: open source tools for gamma-ray astronomy and beyond - [Slides](https://github.com/user-attachments/files/33708779/Terrier.gamma.2026.pdf)
- | R. Terrier et al. |
+| Gamma26 | Gammapy: open source tools for gamma-ray astronomy and beyond - [Slides](https://github.com/user-attachments/files/33708779/Terrier.gamma.2026.pdf) | R. Terrier et al. |
 | MuMeNTA 2026 | Gammapy: current status and future plans - [abstract](https://conferences.uoa.gr/event/108/contributions/1237/) - [slides](https://conferences.uoa.gr/event/108/contributions/1237/attachments/384/1596/MuMeNTA2026.pdf) | A. Sinha et al. |
 | MuMeNTA 2026 |  From Photons to Neutrinos: Advancing Multi-Messenger Blazar Modeling with Gammapy - [slides](https://conferences.uoa.gr/event/108/contributions/1230/attachments/380/1590/MuMeNTA2026_Heckmann.pdf)  | L. Heckmann et al. |
 | ATPEM 2025 | MWL modelling with Gammapy - [slides](https://indico.in2p3.fr/event/35174/contributions/152623/attachments/96575/148447/ATPEM_2025.pdf) | L. Heckmann et al. |
